@@ -4,7 +4,7 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "Insert.Image.Excel.Windows": "[1.0.1]",
+    "Insert.Image.Excel.Windows": "[1.0.2]",
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.1]",
     "UiPath.System.Activities": "[22.10.3]",
